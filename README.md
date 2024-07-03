@@ -7,17 +7,19 @@
 
 
 
-  - C:\projects\MERN Task Manager>  npm i express
-                                   npm i moongoose
-                                   npm i cors
-  -C:\projects\MERN Task Manager\client>  npm install react-axios
-                                          npm install react-router-dom
+  - C:\projects\MERN Task Manager>  npm i express,
+                                   npm i moongoose,
+                                   npm i cors,
+  -C:\projects\MERN Task Manager\client>  npm install react-axios,
+                                          npm install react-router-dom,
                                           npm install -D tailwindcss
 
   - C:\projects\MERN Task Manager> --at this path run "node server.js" command
   - C:\projects\MERN Task Manager\client> --at this path run "npm start" or "npm run start"
 
 
+
+below is the file structure of this project
   mern-task-manager/
 
 │── models/
